@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AngelAmoresBustos
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning English languaje
 - 💞️ I’m looking to collaborate on some open source project
 - 📫 How to reach me, by may email:yo@angelamores.com or my phone number: +593984453540
 
